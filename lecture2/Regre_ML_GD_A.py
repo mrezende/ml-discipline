@@ -74,7 +74,7 @@ def custo(ye,y):
 
     
    
-arq = open('cars-mpg.txt', 'r')
+arq = open('../data/cars-mpg.txt', 'r')
 texto = arq.readlines()
 arq.close()
 
